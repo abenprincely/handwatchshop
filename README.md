@@ -29,7 +29,7 @@ hand-watch-shop/ │ ├── index.html ├── about.html ├── contact
 
 1. *Clone this repository:*
    ```bash
-   git clone https://github.com/yourusername/hand-watch-shop.git
+   git clone https://github.com/abenprincely/handwatchshop.git
 
 2. Open index.html in your browser or use a local development server (like Live Server in VS Code) to preview.
 
